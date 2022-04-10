@@ -169,7 +169,14 @@
 				</div>
 				<div id="copyright" class="container">
 					<ul class="links">
-						<li><a href="/privacy/">&copy; <script>document.write(new Date().getFullYear())</script> Bjarne Bartlett</a></li><li>Updated:<script>document.write( document.lastModified );</script></li>
+						<li><a href="/privacy/">&copy; <script>document.write(new Date().getFullYear())</script> Bjarne Bartlett</a></li>
+						<li>
+							<script language="Javascript">
+								var dateModified = document.lastModified;
+								mydate = dateModified.slice(0,10);
+								document.write("Last updated: " + mydate);
+							</script>
+						</li>
 					</ul>
 				</div>
 			</section>
