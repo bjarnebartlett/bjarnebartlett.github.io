@@ -9,50 +9,56 @@
   <loc>https://www.bjarnebartlett.com/</loc>
   <lastmod>2022-04-14T19:08:24+00:00</lastmod>
   <priority>1.00</priority>
-  <changefreq>monthly</changefreq>
+  <changefreq>daily</changefreq>
 </url>
+
 <url>
   <loc>https://www.bjarnebartlett.com/cv/</loc>
   <lastmod>2022-04-14T19:08:24+00:00</lastmod>
   <priority>0.90</priority>
-  <changefreq>monthly</changefreq>
+  <changefreq>daily</changefreq>
 </url>
+
 <url>
   <loc>https://www.bjarnebartlett.com/research/</loc>
   <lastmod>2022-04-14T19:08:24+00:00</lastmod>
   <priority>0.80</priority>
-  <changefreq>monthly</changefreq>
+  <changefreq>daily</changefreq>
 </url>
+
 <url>
   <loc>https://www.bjarnebartlett.com/outreach/</loc>
   <lastmod>2022-04-14T19:08:24+00:00</lastmod>
   <priority>0.70</priority>
   <changefreq>monthly</changefreq>
 </url>
+
 <url>
   <loc>https://www.bjarnebartlett.com/funding/</loc>
   <lastmod>2022-04-14T19:08:24+00:00</lastmod>
   <priority>0.70</priority>
   <changefreq>monthly</changefreq>
 </url>
+
 <url>
   <loc>https://www.bjarnebartlett.com/about/</loc>
   <lastmod>2022-04-14T19:08:24+00:00</lastmod>
   <priority>0.70</priority>
   <changefreq>monthly</changefreq>
 </url>
+
 <url>
   <loc>https://www.bjarnebartlett.com/cv/Bjarne_R_Bartlett_CV.pdf</loc>
   <lastmod>2022-04-14T19:08:24+00:00</lastmod>
   <priority>0.7</priority>
-  <changefreq>monthly</changefreq>
+  <changefreq>daily</changefreq>
 </url>
+
 <url>
   <loc>https://www.bjarnebartlett.com/index</loc>
   <lastmod>2022-04-14T19:08:24+00:00</lastmod>
   <priority>0.64</priority>
   <changefreq>monthly</changefreq>
 </url>
-
 
 </urlset>
