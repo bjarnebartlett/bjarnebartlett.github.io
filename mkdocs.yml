@@ -43,7 +43,7 @@ markdown_extensions:
       use_pygments: false
   - pymdownx.snippets
   - pymdownx.superfences
-  - callouts
+#callouts
   - mdx_gh_links:
       user: mkdocs
       repo: mkdocs
