@@ -65,15 +65,15 @@ plugins:
   - literate-nav:
       nav_file: README.md
       implicit_index: true
-  - mkdocstrings:
-      handlers:
-        python:
-          options:
-            docstring_section_style: list
-            members_order: source
-            show_root_heading: true
-            show_source: false
-            show_signature_annotations: true
+  # - mkdocstrings:
+  #     handlers:
+  #       python:
+  #         options:
+  #           docstring_section_style: list
+  #           members_order: source
+  #           show_root_heading: true
+  #           show_source: false
+  #           show_signature_annotations: true
 
 watch:
   - mkdocs
